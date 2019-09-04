@@ -1,0 +1,7 @@
+#img-one {
+  margin-right: 20px;
+}
+
+#img-two {
+  margin-left: 20px;
+}
